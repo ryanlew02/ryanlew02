@@ -20,7 +20,8 @@
 ### 🏙 Inner City
 A live web app focused on community-driven features.
 
-🔗 Live Demo: https://ryanlewan.info/innercity/index.html  
+🔗 Live Demo: https://ryanlewan.info/innercity/index.html
+🔗 Repo: https://github.com/ryanlew02/inner-city
 
 ---
 
