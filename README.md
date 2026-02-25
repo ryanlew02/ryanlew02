@@ -8,7 +8,7 @@
 
 ## 🛠 What I'm Focused On
 
-- Data Structures & Algorithms (LeetCode grind)
+- Data Structures & Algorithms
 - Full-stack development
 - Shipping real projects, not just tutorials
 - Writing cleaner, faster code every week
@@ -39,7 +39,8 @@ A live web app focused on community-driven features.
 - JavaScript / TypeScript
 - React
 - Node.js
-- Git / GitHub
+- Java
+- HTML / CSS
 
 ---
 
@@ -47,8 +48,3 @@ A live web app focused on community-driven features.
 
 - Email: ryanlewan.2@gmail.com
 - Website: https://ryanlewan.info
-
----
-
-### `git push and pray • just building things`
-
