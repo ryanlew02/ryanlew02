@@ -42,6 +42,7 @@ A live web app focused on community-driven features.
 - Node.js
 - Java
 - HTML / CSS
+- C++
 
 ---
 
