@@ -43,6 +43,7 @@ A live web app focused on community-driven features.
 - Java
 - HTML / CSS
 - C++
+- SQL
 
 ---
 
