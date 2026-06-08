@@ -17,11 +17,11 @@
 
 ## 🔥 Current Projects
 
-### 🏙 Inner City
-A live web app focused on community-driven features.
+### 🏙 DivergeOS
+DivergeOS is a browser-based desktop OS simulation built with React and TypeScript, featuring interactive windows, apps, theming, and a virtual file system.
 
-🔗 Live Demo: https://ryanlewan.info/innercity/index.html
-🔗 Repo: https://github.com/ryanlew02/inner-city
+🔗 Live Demo: https://ryanlew02.github.io/DivergeOS/
+🔗 Repo: https://github.com/ryanlew02/DivergeOS
 
 ---
 
