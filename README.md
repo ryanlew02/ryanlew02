@@ -50,4 +50,4 @@ DivergeOS is a browser-based desktop OS simulation built with React and TypeScri
 ## 📫 Connect
 
 - Email: ryanlewan.2@gmail.com
-- Website: https://ryanlewan.info
+- Website: https://ryanlewan.com
