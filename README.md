@@ -17,11 +17,8 @@
 
 ## 🔥 Current Projects
 
-### 🏙 DivergeOS
-DivergeOS is a browser-based desktop OS simulation built with React and TypeScript, featuring interactive windows, apps, theming, and a virtual file system.
-
-🔗 Live Demo: https://ryanlew02.github.io/DivergeOS/
-🔗 Repo: https://github.com/ryanlew02/DivergeOS
+### Lightning
+A C# Unity project where I am creating lightning from code. Not by just randomly drawing a line from the top of the screen to the bottom, but by creating cells with electric potential and simulating a real storm. 
 
 ---
 
