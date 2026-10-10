@@ -1,17 +1,6 @@
-# 👋 Hey, I’m Ryan
+# 👋 Hello, I’m Ryan
 
 💻 Software Engineer in progress  
-🧠 Growth mindset. Daily reps.  
-📈 Building, breaking, improving.
-
----
-
-## 🛠 What I'm Focused On
-
-- Data Structures & Algorithms
-- Full-stack development
-- Shipping real projects, not just tutorials
-- Writing cleaner, faster code every week
 
 ---
 
@@ -24,22 +13,20 @@ A C# Unity project where I am creating lightning from code. Not by just randomly
 
 ## 📊 What You’ll Find Here
 
-- Algorithm practice & optimized solutions
+- Simulation Projects
 - Full-stack experiments
-- UI projects
-- Ideas turned into shipped code
-
+  
 ---
 
 ## ⚙️ Tech Stack
 
 - Python
+- C++
+- C#
 - JavaScript / TypeScript
 - React
-- Node.js
 - Java
 - HTML / CSS
-- C++
 - SQL
 
 ---
