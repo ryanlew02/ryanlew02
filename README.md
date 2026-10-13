@@ -7,12 +7,6 @@ A C# Unity project where I am creating lightning from code. Not by just randomly
 
 ---
 
-## What You’ll Find Here
-
-- Simulation Projects
-  
----
-
 ## Tech Stack
 
 - C++
