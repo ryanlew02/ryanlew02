@@ -1,9 +1,5 @@
 # 👋 Hello, I’m Ryan
 
-💻 Software Engineer in progress  
-
----
-
 ## 🔥 Current Projects
 
 ### Lightning
@@ -14,15 +10,14 @@ A C# Unity project where I am creating lightning from code. Not by just randomly
 ## 📊 What You’ll Find Here
 
 - Simulation Projects
-- Full-stack experiments
   
 ---
 
 ## ⚙️ Tech Stack
 
-- Python
 - C++
 - C#
+- Python
 - JavaScript / TypeScript
 - React
 - Java
