@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ryan!
 
-I'm a Computer Science student concentrating in Software Engineering at Southern New Hampshire University. I like complex problems, exploring low-level programming, and applying physics and mathematics to build interesting and challenging projects. 
+I'm a Computer Science student concentrating in Software Engineering at Southern New Hampshire University. I like complex problems, exploring low-level programming, and applying physics and math to build interesting and challenging projects. 
 
 I like building things from scratch and figuring out what is going on beneath the surface. 
 
